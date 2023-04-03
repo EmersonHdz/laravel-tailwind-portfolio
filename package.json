@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "gulp": "gulp",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "gulp": "^4.0.2",
+        "gulp-image": "^6.3.1",
+        "gulp-imagemin": "^8.0.0",
+        "gulp-avif": "^1.1.1",
+        "gulp-cache": "^1.1.3",
+        "gulp-webp": "^4.0.1",
+        "laravel-vite-plugin": "^0.7.2",
+        "vite": "^4.0.0",
+        "webpack": "^5.77.0"
+    },
+    "dependencies": {
+        "alpinejs": "^3.12.0",
+        "autoprefixer": "^10.4.14",
+        "tailgrids": "^2.0.1",
+        "tailwindcss": "^3.2.7"
+    }
+}
