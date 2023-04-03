@@ -58,8 +58,7 @@ class Portfolio extends Component
 
              [
                 'category' => ['WordPress', 'Gutenberg'],
-                'title' => 'creation of a block in Gutenberg, a simple box to which a custom color palette was added, a text and a paragraph are added,
-                 technologies used. React, CSS, JS, PHP HTML',
+                'title' => 'creation of a block in Gutenberg, a simple box to which a custom color palette was added, a text and a paragraph are added',
                 'image' =>   url( path: '/image/about-php.webp'),
                              url( path: '/image/about-php.avif'),
                              url( path: '/image/about-php.jpg'),
